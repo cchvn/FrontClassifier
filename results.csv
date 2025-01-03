@@ -1,0 +1,17 @@
+image_path,image_cropped_path,predict,font,nsfw
+dataset_image_train/img_38.png,cropped_images/cropped_1.jpg,0,Roboto-Bold,True
+dataset_image_train/img_1.png,cropped_images/cropped_2.jpg,7,Sentinel-Bold,True
+dataset_image_train/img_0.png,cropped_images/cropped_3.jpg,17,Aller_Bd,True
+dataset_image_train/img_13.png,cropped_images/cropped_6.jpg,7,Oswald-Bold,True
+dataset_image_train/img_3.png,cropped_images/cropped_8.jpg,2,TimesNRMTPro-Bold,True
+dataset_image_train/img_7.png,cropped_images/cropped_11.jpg,0,ITCGaramondStd-Bd,True
+dataset_image_train/img_14.png,cropped_images/cropped_18.jpg,2,Antonio-Regular,True
+dataset_image_train/img_64.png,cropped_images/cropped_25.jpg,15,Antonio-Bold,False
+dataset_image_train/img_59.png,cropped_images/cropped_27.jpg,0,ITCGaramondStd-Bk,False
+dataset_image_train/img_49.png,cropped_images/cropped_30.jpg,20,BaskervillePro-Bold,False
+dataset_image_train/img_61.png,cropped_images/cropped_32.jpg,20,OpenSans-Bold,False
+dataset_image_train/img_88.png,cropped_images/cropped_38.jpg,0,TimesNRMTPro-Bold,False
+dataset_image_train/img_63.png,cropped_images/cropped_40.jpg,20,Oswald-Bold,False
+dataset_image_train/img_84.png,cropped_images/cropped_44.jpg,16,BaskervillePro-Bold,False
+dataset_image_train/img_78.png,cropped_images/cropped_52.jpg,20,Oswald-Regular,False
+dataset_image_train/img_26.png,cropped_images/cropped_78.jpg,7,Roboto-Bold,True
